@@ -1,0 +1,5 @@
+httpx
+colr
+pymysql
+pystyle
+requests
